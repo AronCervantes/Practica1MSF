@@ -13,7 +13,7 @@ authors:
 repository-code: 'https://github.com/AronCervantes/Practica1MSF'
 keywords:
   - Circuito RLC
-  - Controlador PID
+  - Controlador I
   - Diseño de controladores
   - Modelo matemático
   - Simulaciones numéricas
